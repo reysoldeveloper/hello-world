@@ -1,2 +1,3 @@
 # hello-world
 Checking out Git
+Simply Agu Joe. Changing the world, one code, one stop at a time...
